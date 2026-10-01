@@ -1,7 +1,7 @@
 export const config = /*json-start*/{
   "mainAssemblyName": "Sunaba.web.dll",
   "resources": {
-    "hash": "sha256-h8JcZmV9KsdcFIlH9AyW72BmoHs5BqIkAzuBBvD7VDc=",
+    "hash": "sha256-KrQtXBMUosRTvfaRVFiaPjiriEEfrRub2UyFybMu5Xc=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.js"
@@ -161,12 +161,12 @@ export const config = /*json-start*/{
       {
         "virtualPath": "Sunaba.wasm",
         "name": "Sunaba.wasm",
-        "hash": "sha256-sz2VJMvhuSkInzYTMXV4sdho/mCSion5V1YxX/qOZnk="
+        "hash": "sha256-FDlaoHy92SUDlkNA9A6xWG5ZTwQUzeQxKhkKbTAxNPE="
       },
       {
         "virtualPath": "Sunaba.web.wasm",
         "name": "Sunaba.web.wasm",
-        "hash": "sha256-cRWtegKf8WrSH86YeDccVSlGLHxh7rEz+Wh/+dwX9HA="
+        "hash": "sha256-od5pKurImHu1hm7ge+LNzplSxo6ikprRXUY0MhmF2WE="
       },
       {
         "virtualPath": "Superpower.wasm",
